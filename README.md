@@ -1,4 +1,9 @@
 # Titanic Survival Prediction
+![Python](https://img.shields.io/badge/python-3.11-blue)
+![Pandas](https://img.shields.io/badge/pandas-1.6-green)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-1.2-orange)
+![Accuracy](https://img.shields.io/badge/accuracy-82%25-brightgreen)
+
 
 This project predicts passenger survival on the Titanic using Python. It demonstrates **data analysis, preprocessing, and machine learning** techniques on a real-world dataset.
 
