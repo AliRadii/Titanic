@@ -50,5 +50,5 @@ It contains information such as passenger age, sex, ticket class, and whether th
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/Titanic-Project.git
+git clone https://github.com/<AliRadii>/Titanic-Project.git
 cd Titanic-Project
