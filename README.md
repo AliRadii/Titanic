@@ -14,7 +14,7 @@ The dataset is from [Kaggle Titanic](https://www.kaggle.com/c/titanic) and conta
 - Pclass, Sex, Age, SibSp, Parch, Ticket, Fare, Cabin, Embarked
 
 ## Usage
-Open `Titanic.ipynb` in Jupyter Notebook to explore the analysis and model training.
+Open `Code.ipynb` in Jupyter Notebook to explore the analysis and model training.
 
 ## Author
 Ali Radii
