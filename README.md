@@ -30,10 +30,6 @@ It contains information such as passenger age, sex, ticket class, and whether th
 ## Algorithms & Models
 
 * **Logistic Regression** — Binary classification of survival.  
-* **Random Forest** — Ensemble learning for higher accuracy.  
-* **Decision Tree** — Tree-based classifier.  
-* **Gradient Boosting** (optional) — Boosted tree ensemble for improved performance.  
-
 ### Preprocessing Steps
 * Handling missing values  
 * Encoding categorical variables  
