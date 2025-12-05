@@ -1,54 +1,15 @@
 # Titanic Survival Prediction
 
-This project predicts passenger survival on the Titanic using machine learning. It is a **hands-on implementation of data analysis, feature engineering, and predictive modeling** using Python and popular libraries.
-
-The goal is to **understand patterns in the Titanic dataset** and build predictive models to classify whether a passenger survived.
-
----
+This project predicts passenger survival on the Titanic using Python. It demonstrates **data analysis, preprocessing, and machine learning** techniques on a real-world dataset.
 
 ## Dataset
-
-The dataset is the famous Titanic dataset from [Kaggle](https://www.kaggle.com/c/titanic).  
-It contains information such as passenger age, sex, ticket class, and whether they survived.
-
----
+The dataset is from [Kaggle Titanic](https://www.kaggle.com/c/titanic) and contains passenger info such as age, sex, ticket class, and survival.
 
 ## Features
+- Pclass, Sex, Age, SibSp, Parch, Ticket, Fare, Cabin, Embarked
 
-* Passenger class (`Pclass`)  
-* Sex (`Sex`)  
-* Age (`Age`)  
-* Number of siblings/spouses aboard (`SibSp`)  
-* Number of parents/children aboard (`Parch`)  
-* Ticket (`Ticket`)  
-* Fare (`Fare`)  
-* Cabin (`Cabin`)  
-* Port of Embarkation (`Embarked`)  
+## Usage
+Open `Titanic.ipynb` in Jupyter Notebook to explore the analysis and model training.
 
----
-
-## Algorithms & Models
-
-* **Logistic Regression** — Binary classification of survival.  
-### Preprocessing Steps
-* Handling missing values  
-* Encoding categorical variables  
-* Feature scaling  
-* Train/test split  
-
----
-
-## Tech Stack
-
-* **Language:** Python 3  
-* **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
-* **Framework:** Jupyter Notebook  
-
----
-
-## Getting Started
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/<AliRadii>/Titanic-Project.git
-cd Titanic-Project
+## Author
+Ali Radii
